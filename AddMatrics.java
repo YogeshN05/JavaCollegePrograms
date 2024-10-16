@@ -4,6 +4,7 @@ public class AddMatrics
 {
     public static void main(String[] args) 
     {
+        // Testing commandline commands
         int row,col,i,j;
         Scanner s=new Scanner(System.in);
 
