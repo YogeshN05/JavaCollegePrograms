@@ -87,9 +87,6 @@ class Triangle extends Shapes{
     System.out.println("Heigth a Triangle: "+height);
     t.area(length, breadth, height);
     t.perimeter(length, breadth, height);
-    
-
-
     }
     
 }
