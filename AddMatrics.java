@@ -1,4 +1,5 @@
 //Adding Two Matrices
+//Taking Inputs from user
 import java.util.Scanner;
 public class AddMatrics 
 {
