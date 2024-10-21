@@ -31,15 +31,14 @@ class Circle extends Shapes{
         int a=0;
         return a;
     }
-
 }
+
 class Triangle extends Shapes{ 
     double area(int length,int breadth,int height)
     {
         double area=(double)(length*breadth*height);
         System.out.println("Area of the Triangle: "+area);
         return area;
-
     }
     double area(int radius)
     {
@@ -57,11 +56,10 @@ class Triangle extends Shapes{
     {
         int a=0;
         return a;
-
     }
-
-
 }
+
+
 
  class Prog6 {
     public static void main(String[] args) {
