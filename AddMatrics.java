@@ -43,7 +43,7 @@ public class AddMatrics
         {
             for(j=0;j<col;j++)
             {
-                res[i][j]=mat1[i][j]+mat2[i][j];
+                res[i][j]=mat1[i][j]+mat2[i][j]; // Result Matricx
             }
         }
 
